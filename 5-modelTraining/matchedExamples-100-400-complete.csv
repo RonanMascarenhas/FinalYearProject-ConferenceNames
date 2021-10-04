@@ -1,0 +1,542 @@
+﻿researcher_name,obrss_name,correct_match,publication_channel,best_match_score,fuzz_ratio,fuzz_partial_ratio,fuzz_token_sort_ratio,kmpMatch,BM_badCharMatch,rabinKarpMatch
+IEEE International Workshop on Modeling Analysis and Simulation of Computer and Telecommunication Systems Proceedings ,International Conference on Computer Modelling and Simulation,no,Conference,0.014269472,48,70,60,0,0,0
+Mathematics of Computation ,Mathematics,no,Other,-0.011739417,58,100,59,1,1,1
+ACM Transactions on Multimedia Computing Communications and Applications ,ACM Multimedia,no,Journal,-0.140480665,32,79,33,0,0,0
+Artificial Intelligence Review ,Artificial Intelligence,yes,Journal,0.08443929,85,100,87,1,1,1
+Journal of Ambient Intelligence and Smart Environments ,Intelligent Environments,no,Journal,-0.114911298,61,67,62,0,0,0
+Journal of Ambient Intelligence and Smart Environments ,Journal of Ambient Intelligence and Smart Environments,yes,Journal,0.530522876,99,100,100,1,1,1
+International journal of neural systems ,International Journal of Intelligent Systems,no,Journal,0.187447674,81,75,77,0,0,0
+Software Practice and Experience ,Software: Practice and Experience,yes,Other,0.160549331,97,97,100,0,0,0
+Proceedings of the  International AAAI Conference on Web and Social Media ICWSM  ,Artificial Intelligence,no,Conference,-1,27,52,32,0,0,0
+ACM Transactions on Sensor Networks ,ACM Transactions on Sensor Networks,yes,Journal,0.232990001,99,100,100,1,1,1
+ACM Transactions on Knowledge Discovery from Data ,ACM SIGKDD Conference on Knowledge Discovery and Data Mining,no,Journal,0.134508633,67,68,62,0,0,0
+ACM Transactions on Knowledge Discovery from Data ,Data & Knowledge Engineering,no,Journal,-0.084808299,44,57,48,0,0,0
+Algorithm Theory Ã¢â‚¬â€œ SWAT  ,Algorithmica,no,Other,-1,46,75,61,0,0,0
+Proceedings IEEE  International Conference on Software Testing Verification and Validation Workshops ICSTW  ,iConference,no,Conference,-1,18,91,17,0,0,0
+Proceedings of the VLDB Endowment ,VLDB workshop on Management of Uncertain Data,no,Conference,-0.090790637,33,38,49,0,0,0
+IJCAI International Joint Conference on Artificial Intelligence ,International Conference on Artificial Intelligence,no,Conference,0.257344674,89,88,89,0,0,0
+Proceedings IEEE  International Parallel and Distributed Processing Symposium Workshops and PhD Forum IPDPSW  ,International Conference on Parallel Processing,no,Conference,-0.230952672,42,66,52,0,0,0
+ACM Transactions on Sensor Networks ,ACM Transactions on Computer Systems,no,Journal,0.046598,69,69,73,0,0,0
+ International Conference on Mobile Data Management ,"Management""",no,Conference,-0.109623209,32,91,33,0,0,0
+HT  Proceedings of the  ACM Conference on Hypertext and Social Media ,Social Informatics,no,Conference,-0.315322811,23,44,33,0,0,0
+IEEE Intelligent Systems ,IEEE Systems Journal,no,Other,0.040137333,58,50,68,0,0,0
+IEEE Transactions on Parallel and Distributed Systems ,IEEE Transactions on Parallel and Distributed Systems,yes,Journal,0.394379085,99,100,100,1,1,1
+International Journal of Data Warehousing and Mining ,International Journal of Business Intelligence and Data Mining,no,Journal,0.325575397,71,66,70,0,0,0
+COSN  Proceedings of the  ACM Conference on Online Social Networks ,iConference,no,Conference,-1,28,91,27,0,0,0
+Multimedia Tools and Applications ,Signal Processing and Multimedia Applications,no,Other,0.081045459,58,69,77,0,0,0
+International Journal of Web Engineering and Technology ,International Journal of Web Engineering and Technology,yes,Journal,0.579033527,99,100,100,1,1,1
+Int J Intell Games Simulation ,Computers and Games,no,Other,-0.038088917,37,42,29,0,0,0
+International Journal of Computer Games Technology ,Computers and Games,no,Journal,-0.087849458,40,74,41,0,0,0
+ International Conference on Geographic Information Science ,iConference,no,Conference,-1,31,91,29,0,0,0
+Telecommunication Systems ,Telecommunication Networkds,no,Other,0,75,73,77,0,0,0
+Artificial Intelligence Review SPEC ISS ,Revue d'Intelligence Artificielle,no,Journal,0.083093875,44,48,75,0,0,0
+Educational Data Mining ,Educational Data Mining,yes,Other,0.095424251,98,100,100,1,1,1
+Multimedia Tools and Applications ,Multimedia Systems,no,Other,-0.050171666,54,67,51,0,0,0
+ International Conference on Geographic Information Science ,Informatica,no,Conference,-1,28,82,29,0,0,0
+Journal of Visual Languages and Computing ,International Journal of Computers and Applications,no,Journal,0.034864614,49,55,50,0,0,0
+Journal of Intelligent Information Systems ,International Journal of Intelligent Information and Database Systems,no,Journal,0.293539332,75,84,76,0,0,0
+Artificial Intelligence and Law ,Inteligencia Artificial,no,Other,0.030103,47,59,81,0,0,0
+International Journal of Geographical Information Science ,International Journal of Geographical Information Science,yes,Journal,0.396454247,99,100,100,1,1,1
+Knowledge and Information Systems ,Foundations of Information and Knowledge Systems,no,Other,0.15563025,59,59,81,0,0,0
+International Journal of Web Engineering and Technology ,International Journal of Web and Semantic Technology,no,Journal,0.412679739,81,79,80,0,0,0
+Knowledge and Information Systems ,International Conference on Knowledge-Based and Intelligent Information & Engineering Systems,no,Other,0.077224166,52,62,53,0,0,0
+Computational Intelligence ,Computational Intelligence,yes,Other,0.067780792,98,100,100,1,1,1
+Computational Intelligence ,Artificial Intelligence and Computational Intelligence,no,Other,0.060205999,64,98,65,0,0,0
+International Journal of Geographical Information Science ,Informatica,no,Journal,-1,29,82,29,0,0,0
+ International Conference on Geographic Information Science ,Scandinavian Research Conference on Geographical Information Science,no,Conference,0.157633829,80,81,79,0,0,0
+ IEEE International Conference on Mobile Data Management ,International Conference on Management of Data,no,Conference,0.216433239,76,76,89,0,0,0
+Artificial Intelligence Review ,Computing Reviews,no,Journal,-1,46,59,47,0,0,0
+Proceedings of the  International AAAI Conference on Web and Social Media ICWSM  ,The AAAI Conference on Artificial Intelligence,no,Conference,-0.076864497,46,59,53,0,0,0
+Cooperative Information Agents ,Conference on Cooperative Information Systems,no,Other,0.007394958,68,84,69,0,0,0
+Journal on Multimodal User Interfaces ,Intelligent User Interfaces,no,Journal,-0.013855626,62,67,47,0,0,0
+Proceedings  IEEE International Parallel and Distributed Processing Symposium IPDPS  ,International Conference on Parallel Processing,no,Conference,-0.097652501,50,66,60,0,0,0
+Virtual Reality ,Virtual Reality Interactions and Physical Simulations,no,Other,0,46,100,44,0,0,0
+HT  Proceedings of the  ACM Conference on Hypertext and Social Media ,International Conference on Social Computing,no,Conference,-0.150652216,46,52,58,0,0,0
+  International Conference on Quality of Multimedia Experience QoMEX  ,International Conference on Quality Software,no,Conference,0.042681003,74,89,64,0,0,0
+International Journal on Artificial Intelligence Tools ,Artificial Intelligence,no,Journal,-0.003410168,59,100,60,1,1,1
+Information Visualization ,Information Visualization,yes,Other,0.040137333,98,100,100,1,1,1
+International Conference on Information and Knowledge Management Proceedings ,iConference,no,Conference,-1,25,91,23,0,0,0
+International Journal of Geographical Information Science ,International Journal of Geographical Information Science,yes,Journal,0.396454247,99,100,100,1,1,1
+International Journal of Communication Networks and Distributed Systems ,International Journal of Communication Networks and Distributed Systems,yes,Journal,0.527096749,99,100,100,1,1,1
+Knowledge and Information Systems ,Knowledge and Information Systems,yes,Other,0.160549331,99,100,100,1,1,1
+Software Practice and Experience ,Software Engineering Research and Practice,no,Other,0.087740138,56,52,73,0,0,0
+ International World Wide Web Conference WWW  ,iConference,no,Conference,-1,39,91,37,0,0,0
+Knowledge and Information Systems ,Systems,no,Other,-0.060205999,34,100,35,1,1,1
+FLAIRS  Proceedings of the Nineteenth International Florida Artificial Intelligence Research Society Conference ,International Florida Artificial Intelligence Research Society Conference,yes,Conference,0.399169986,79,100,80,1,1,1
+International Journal of Communication Networks and Distributed Systems ,Journal of Communications and Networks,no,Journal,0.132578877,60,87,70,0,0,0
+Journal of Visual Languages and Computing ,Journal of Computers,no,Journal,-0.027643459,55,60,56,0,0,0
+Computers in Entertainment ,Computers in Entertainment,yes,Other,0.095424251,98,100,100,1,1,1
+Mathematics of Computation ,Mathematical Programming Computation,no,Other,0.004164625,76,59,77,0,0,0
+Journal on Multimodal User Interfaces ,International Conference on Multimodal Interfaces,no,Journal,0.046598,67,77,67,0,0,0
+Recent Patents on Computer Science ,Recent Patents on Computer Science,yes,Other,0.232990001,99,100,100,1,1,1
+International Journal on Artificial Intelligence Tools ,Artificial Intelligence,no,Journal,-0.003410168,59,100,60,1,1,1
+Artificial Intellingence Review ,Revue d'Intelligence Artificielle,no,Journal,-1,49,50,84,0,0,0
+Journal of Systems Architecture ,Journal of Systems Architecture,yes,Journal,0.196769666,98,100,100,1,1,1
+International Journal of Intelligent Games Simulation ,International Journal of Intelligent Games & Simulation,yes,Journal,0.396454247,97,96,100,0,0,0
+International Journal on Artificial Intelligence Tools ,Inteligencia Artificial,no,Journal,-0.033513168,46,61,60,0,0,0
+Proceedings of the  Workshop on Algorithm Engineering and Experiments and the  Workshop on Analytic Algorithms and Combinatorics ,Computing and Combinatorics,no,Conference,-0.332334515,31,74,30,0,0,0
+International Journal of Multimedia and Ubiquitous Engineering ,Journal of Web Engineering,no,Journal,0.068307267,56,58,55,0,0,0
+Information Fusion ,Information Fusion,yes,Other,0.067780792,97,100,100,1,1,1
+Concurrency Computation Practice and Experience ,Concurrency and Computation: Practice & Experience,yes,Other,0.232990001,90,88,100,0,0,0
+ IEEE International Conference on Mobile Data Management ,International Conference on Mobile Networks and Management,no,Conference,0.208787932,83,82,80,0,0,0
+Information Fusion ,Informatica,no,Other,-1,60,82,62,0,0,0
+Virtual Reality ,Virtual Reality,yes,Other,0.040137333,97,100,100,1,1,1
+International Journal of Geographical Information Science ,Informatica,no,Journal,-1,29,82,29,0,0,0
+  International Conference on Quality of Multimedia Experience QoMEX  ,International Journal of Information Quality,no,Conference,-0.049400873,51,64,60,0,0,0
+Web and Wireless Geographical Information Systems ,Wireless and Mobile Systems,no,Other,0.055518208,55,52,63,0,0,0
+International Journal of Digital Crime and Forensics ,International Journal of Digital Crime and Forensics,yes,Journal,0.483462296,99,100,100,1,1,1
+Telecommunication Systems ,Telecommunication  Systems,yes,Other,0.040137333,96,96,100,0,0,0
+Journal on Multimodal User Interfaces ,Intelligent User Interfaces,no,Journal,-0.013855626,62,67,47,0,0,0
+Proceedings IEEE  International Conference on Software Testing Verification and Validation Workshops ICSTW  ,"International Conference on Software Testing, Verification, and Validation",yes,Conference,0.33775716,79,97,81,0,0,0
+International Journal of Computational Intelligence and Applications ,Computation,no,Journal,-1,28,100,28,1,1,1
+Annual ACM Symposium on Parallelism in Algorithms and Architectures ,ACM Symposium on Parallelism in Algorithms and Architectures,yes,Conference,0.453446249,94,100,94,1,1,1
+International Journal of Parallel Emergent and Distributed Systems ,Parallel and Distributed Computing Systems,no,Journal,0.042681003,59,76,59,0,0,0
+Journal of Intelligent Information Systems ,Journal of Intelligent Systems,no,Journal,0.212605915,82,80,83,0,0,0
+International Journal of Parallel Emergent and Distributed Systems ,International Conference on Parallel and Distributed Systems,no,Journal,0.135050479,82,77,78,0,0,0
+Natural Language Engineering ,Workshop on Natural Language Processing and Ontology Engineering,no,Other,0.119657542,60,76,61,0,0,0
+Proceedings IEEE  International Parallel and Distributed Processing Symposium Workshops and PhD Forum IPDPSW  ,International Parallel and Distributed Processing Symposium,yes,Conference,0.08847183,70,100,71,1,1,1
+Knowledge Engineering Review ,Data & Knowledge Engineering,no,Journal,0.060205999,74,75,78,0,0,0
+International Journal of Multimedia and Ubiquitous Engineering ,International Journal of Multimedia and Ubiquitous Engineering,yes,Journal,0.483462296,99,100,100,1,1,1
+International Journal of Computational Intelligence and Applications ,Computational Intelligence,no,Journal,-0.073068881,55,100,55,1,1,1
+Artificial Intelligence and Law ,International Conference on Artificial Intelligence,no,Other,0.049243406,55,84,61,0,0,0
+Proceedings IEEE International Conference on Data Mining ICDM ,Mining,no,Conference,-0.210720997,18,100,18,1,1,1
+International Journal of Digital Crime and Forensics ,International Journal of Digital Crime and Forensics,yes,Journal,0.483462296,99,100,100,1,1,1
+International Journal of Human Computer Studies ,Conference of the Australian Computer-Human Interaction,no,Journal,0.038432249,47,50,61,0,0,0
+International Conference on Intelligent User Interfaces Proceedings IUI ,Australasian User Interface Conference,no,Conference,-0.083848331,47,63,46,0,0,0
+GeoInformatica ,Informatica,no,Other,-1,85,100,88,1,1,1
+IJCAI International Joint Conference on Artificial Intelligence ,International Joint Conference on Artificial Intelligence,yes,Conference,0.413733068,94,100,95,1,1,1
+International Journal of Geographical Information Science ,Informatica,no,Journal,-1,29,82,29,0,0,0
+COMPUTATIONAL INTELLIGENCE  pages ,Computational Intelligence,yes,Other,0.05187675,17,20,90,0,0,0
+Educational Data Mining ,Mining,no,Other,-0.031808084,40,100,41,1,1,1
+Journal of Intelligent Information Systems ,Journal of Intelligent Systems,no,Journal,0.212605915,82,80,83,0,0,0
+Artificial Intelligence Review ,Inteligencia Artificial,no,Journal,0.05433629,44,56,83,0,0,0
+Journal of Algorithms Computational Technology ,Journal of Algorithms,no,Journal,0.117609126,62,100,63,1,1,1
+ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings ,Acoustics,no,Conference,-0.347130895,18,100,18,1,1,1
+Journal of Algorithms Computational Technology ,Journal of Computational Information Systems,no,Journal,0.0804545,64,64,60,0,0,0
+International Journal of Intelligent Games Simulation ,International Journal of Computer Games Technology,no,Journal,0.150514998,69,70,64,0,0,0
+GeoInformatica ,Geoinformatica,yes,Other,0.020068666,90,93,100,0,0,0
+COMPUTATIONAL INTELLIGENCE  pages ,Computational Intelligence and Security,no,Other,0.053992959,16,18,79,0,0,0
+ARCS Workshops ARCS  ,Workshops,no,Workshop,0.014198958,60,100,64,1,1,1
+Information Fusion ,Journal of Advances in Information Fusion,no,Other,0.038432249,60,97,61,0,0,0
+Information Fusion ,Journal of Advances in Information Fusion,no,Other,0.038432249,60,97,61,0,0,0
+International Journal of Computational Intelligence and Applications ,International Journal of Computational Geometry and Applications,no,Journal,0.335336324,87,84,89,0,0,0
+International Journal of Computer Games Technology ,International Journal of Computer Games Technology,yes,Journal,0.396454247,99,100,100,1,1,1
+Computer Networks ,Local Computer Networks Workshops,no,Other,0.046598,71,100,68,0,0,0
+Mathematics of Computation ,Mathematics and Computation in Music,no,Other,0.038612083,79,89,77,0,0,0
+Web and Wireless Geographical Information Systems ,Geographic Information Systems,no,Other,-0.005869709,75,93,76,0,0,0
+Evolving Systems ,Constraint Solving and Constraint Logic Programming CSCLP,no,Other,-1,30,47,22,0,0,0
+Journal of Algorithms Computational Technology ,Journal of Algorithms & Computational Technology,yes,Journal,0.357318997,97,96,100,0,0,0
+International Journal of Geographical Information Science ,International Conference on Geographic Information Science,no,Journal,0.058571429,86,86,82,0,0,0
+Proceedings of the  IEEE  International Parallel and Distributed Processing Symposium IPDPS  ,International Conference on Parallel Processing,no,Conference,-0.184508715,47,66,59,0,0,0
+Algorithm Theory Ã¢â‚¬â€œ SWAT  ,Algorithmic Learning Theory,no,Other,0.006460668,59,59,75,0,0,0
+FLAIRS  Proceedings of the Nineteenth International Florida Artificial Intelligence Research Society Conference ,Inteligencia Artificial,no,Conference,-0.28948675,30,65,35,0,0,0
+International Journal on Artificial Intelligence Tools ,International Conference on Artificial Intelligence,no,Journal,0.187039858,83,86,76,0,0,0
+Natural Language Engineering ,International Conference on Natural Language Processing and Knowledge Engineering,no,Other,0.078141197,51,76,51,0,0,0
+GeoInformatica ,e-Informatica,no,Other,-1,86,92,89,0,0,0
+Journal on Multimodal User Interfaces ,IEEE Symposium on 3D User Interfaces,no,Journal,0.031217125,59,61,60,0,0,0
+Journal of Algorithms Computational Technology ,Computation,no,Journal,-1,38,100,39,1,1,1
+International Journal of Geographical Information Science ,Informatica,no,Journal,-1,29,82,29,0,0,0
+International Symposium on Spatial Data Handling ,International Symposium on Spatial Data Handling,yes,Conference,0.3112605,99,100,100,1,1,1
+ACM Transactions on Design Automation of Electronic Systems ,Automation,no,Journal,-0.210720997,29,100,29,1,1,1
+Evolving Systems ,Parallel Problem Solving from Nature,no,Other,-1,34,53,27,0,0,0
+Proceedings IEEE  International Parallel and Distributed Processing Symposium Workshops and PhD Forum IPDPSW  ,Workshops,no,Conference,-0.378342896,15,100,16,1,1,1
+Proceedings IEEE  International Conference on Software Testing Verification and Validation Workshops ICSTW  ,Validation,no,Conference,-0.39569979,17,100,17,1,1,1
+International Journal of Web Engineering and Technology ,International Journal of Web Engineering and Technology,yes,Journal,0.579033527,99,100,100,1,1,1
+Journal on Multimodal User Interfaces ,IEEE Symposium on 3D User Interfaces,no,Journal,0.031217125,59,61,60,0,0,0
+Proceedings of the  Conference in Games and Virtual Worlds for Serious Applications VSGAMES  ,Software World,no,Conference,-1,21,57,23,0,0,0
+International Conference on Intelligent User Interfaces Proceedings IUI ,Journal on Multimodal User Interfaces,no,Conference,-0.049400873,48,65,50,0,0,0
+Artificial Intelligence and Law ,Computers and Artificial Intelligence,no,Other,0.149760541,67,84,79,0,0,0
+IEEE Transactions on Services Computing ,Computers and translation,no,Journal,-1,31,40,62,0,0,0
+International Journal of Geographical Information Science ,International Journal of Geographical Information Science,yes,Journal,0.396454247,99,100,100,1,1,1
+International Journal of Parallel Emergent and Distributed Systems ,Journal of Parallel and Distributed Computing,no,Journal,0.182464109,66,80,63,0,0,0
+Telecommunication Systems ,International Conference on Telecommunications,no,Other,-1,50,82,56,0,0,0
+ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings ,"IEEE Transactions on Acoustics, Speech, and Signal Processing",no,Conference,0.341765639,71,79,62,0,0,0
+Journal of Intelligent Information Systems ,Journal of Intelligent Information Systems,yes,Journal,0.313684543,99,100,100,1,1,1
+ACM Transactions on Algorithms ,ACM Transactions on the Web,no,Journal,0.087740138,79,78,70,0,0,0
+Algorithm Theory Ã¢â‚¬â€œ SWAT  ,Algorithmica,no,Other,-1,46,75,61,0,0,0
+Journal of Ambient Intelligence and Smart Environments ,International Symposium on Ambient Intelligence,no,Journal,-0.086333548,53,57,59,0,0,0
+Journal of Systems Architecture ,Systems,no,Journal,-0.060205999,36,100,37,1,1,1
+International Journal of Geographical Information Science ,International Journal of Geographical Information Science,yes,Journal,0.396454247,99,100,100,1,1,1
+Journal of Visual Languages and Computing ,Symposium on Visual Languages and Human-Centric Computing,no,Journal,0.107163668,71,67,71,0,0,0
+FLAIRS  Proceedings of the Nineteenth International Florida Artificial Intelligence Research Society Conference ,Artificial Intelligence,no,Conference,-0.25938375,34,100,35,1,1,1
+Expert Systems ,Visual Information Expert Workshop,no,Other,-0.026872666,33,53,38,0,0,0
+International Journal of Multimedia and Ubiquitous Engineering ,Journal of Software Engineering,no,Journal,0.057149469,53,52,52,0,0,0
+Proceedings of the VLDB Endowment ,VLDB Workshop on Data Mining in Bioinformatics,no,Conference,-0.203942674,30,32,38,0,0,0
+Journal on Multimodal User Interfaces ,International Conference on Multimodal Interfaces,no,Journal,0.046598,67,77,67,0,0,0
+International Journal of Communication Networks and Distributed Systems ,International Journal of Communication Networks and Distributed Systems,yes,Journal,0.527096749,99,100,100,1,1,1
+Cooperative Information Agents ,Informatica,no,Other,-1,43,82,44,0,0,0
+International Journal of Human Computer Studies ,Journal of Human-Robot Interaction,no,Journal,0.09847475,54,65,72,0,0,0
+International Journal of Geographical Information Science ,Informatica,no,Journal,-1,29,82,29,0,0,0
+Artificial Intelligence and Law ,International Conference on Artificial Intellgence and Law,yes,Other,0.233333333,67,97,67,0,0,0
+Concurrency Computation Practice and Experience ,Information Security Practice and Experience,no,Other,0.046598,70,73,51,0,0,0
+International Journal of Geographical Information Science ,Journal of Computer Science,no,Journal,0.055518208,52,56,60,0,0,0
+International Journal of Intelligent Games Simulation ,Computers and Games,no,Journal,-0.129691875,33,47,25,0,0,0
+Knowledge Engineering Review ,Bioengineering,no,Journal,-1,56,79,52,0,0,0
+ Proceedings of the  Workshop on Algorithm Engineering and Experiments ALENEX  ,Workshop on the Algorithmic Foundations of Robotics,no,Conference,0.089673203,46,57,62,0,0,0
+ACM Transactions on Multimedia Computing Communications and Applications ,ACM Transactions on Multimedia Computing Communications and Applications,yes,Journal,0.481647993,99,100,100,1,1,1
+International Journal of Geographical Information Science ,International Conference on Geographic Information Science,no,Journal,0.058571429,86,86,82,0,0,0
+Information Visualization ,Visualization and Information Security Management,no,Other,0.02857775,43,62,68,0,0,0
+ IEEE International Symposium on Mixed and Augmented Reality ISMAR  ,International Symposium on Computer and Information Sciences,no,Conference,-0.018190745,59,63,62,0,0,0
+Artificial Intellingence Review ,International Conference on Artificial Intelligence,no,Journal,-0.006162173,55,72,63,0,0,0
+Recent Patents on Computer Science ,Recent Patents on Computer Science,yes,Other,0.232990001,99,100,100,1,1,1
+Algorithm Theory Ã¢â‚¬â€œ SWAT  ,Symposium on Algorithmic Game Theory,no,Other,-0.030395464,51,59,63,0,0,0
+COSN  Proceedings of the  ACM Conference on Online Social Networks ,International Conference on Social Computing,no,Conference,-0.106280833,47,57,57,0,0,0
+International Journal of Data Warehousing and Mining ,International Conference on Data Mining,no,Journal,-0.019483738,67,67,66,0,0,0
+Journal of Visual Languages and Computing ,Journal of Visual Languages and Computing,yes,Journal,0.396454247,99,100,100,1,1,1
+Knowledge and Information Systems ,Foundations of Information and Knowledge Systems,no,Other,0.15563025,59,59,81,0,0,0
+ACM Inroads ,ACM Inroads,yes,Other,0.040137333,96,100,100,1,1,1
+IJCAI International Joint Conference on Artificial Intelligence ,iConference,no,Conference,-1,29,91,30,0,0,0
+Annual ACM Symposium on Parallelism in Algorithms and Architectures ,"International Symposium on Parallel Architectures, Algorithms and Networks",no,Conference,0.217541333,68,70,76,0,0,0
+Digital Investigation ,"Journal of the Institution of Engineers (India), Part CP: Computer Engineering Division",no,Other,-1,26,59,29,0,0,0
+Artificial Intelligence and Law ,Artificial Intelligence,no,Other,0.060205999,84,100,85,1,1,1
+Journal of Complex Networks ,Networks,no,Journal,-0.060205999,44,100,46,1,1,1
+Knowledge and Information Systems ,Knowledge and Information Systems,yes,Other,0.160549331,99,100,100,1,1,1
+Virtual Reality ,Virtual Reality Software and Technology,no,Other,0.02857775,58,100,56,0,0,0
+ IEEE International Conference on Mobile Data Management ,"Management""",no,Conference,-0.148950942,29,91,31,0,0,0
+Information Visualization ,International Conference on Information Visualization Theory and Applications,no,Other,-0.056795831,50,100,49,0,0,0
+Information Fusion ,Informatica,no,Other,-1,60,82,62,0,0,0
+Multimedia Systems ,Multimedia Systems,yes,Other,0.040137333,97,100,100,1,1,1
+International journal of neural systems ,International Journal of Cognitive Informatics and Natural Intelligence,no,Journal,0.032048359,59,70,55,0,0,0
+IJCAI International Joint Conference on Artificial Intelligence ,Inteligencia Artificial,no,Conference,-0.070609341,46,70,53,0,0,0
+Journal of Algorithms Computational Technology ,Journal of Computational Biology,no,Journal,0.097292833,76,69,69,0,0,0
+ IEEE International Symposium on Mixed and Augmented Reality ISMAR  ,IEE Proceedings - Software,no,Conference,-1,28,38,27,0,0,0
+GeoInformatica ,Informatica,no,Other,-1,85,100,88,1,1,1
+International Journal on Artificial Intelligence Tools ,International Conference on Artificial Intelligence,no,Journal,0.187039858,83,86,76,0,0,0
+ACM Transactions on Design Automation of Electronic Systems ,Design,no,Journal,-0.190652331,18,100,18,1,1,1
+Cooperative Information Agents ,Informatica,no,Other,-1,43,82,44,0,0,0
+Digital Investigation ,Digital Investigation,yes,Other,0.067780792,98,100,100,1,1,1
+Proceedings of the  International AAAI Conference on Web and Social Media ICWSM  ,International Conference on Artificial Intelligence,no,Conference,-0.21594557,53,67,53,0,0,0
+International Journal of Geographical Information Science ,Informatica,no,Journal,-1,29,82,29,0,0,0
+Artificial Intelligence in Medicine ,Artificial Intelligence,no,Other,0.060205999,78,100,79,1,1,1
+Knowledge Engineering Review ,Knowledge Engineering Review,yes,Journal,0.164207126,98,100,100,1,1,1
+Artificial Intelligence Review ,Artificial Intelligence Review,yes,Journal,0.203342376,98,100,100,1,1,1
+Computer Networks ,Journal of Computer Networks and Communications,no,Other,0.004463119,55,100,53,0,0,0
+FLAIRS  Proceedings of the Nineteenth International Florida Artificial Intelligence Research Society Conference ,FLAIRS Conference,no,Conference,-0.319589749,26,65,27,0,0,0
+COMPUTATIONAL INTELLIGENCE  pages ,Artificial Intelligence and Computational Intelligence,no,Other,0.044301957,20,21,67,0,0,0
+ IEEE International Symposium on Mixed and Augmented Reality ISMAR  ,Information Sciences and Technology,no,Conference,-0.271303002,43,46,42,0,0,0
+ACM Transactions on Algorithms ,ACM Transactions on Graphics,no,Journal,0.080274666,78,79,83,0,0,0
+Multimedia Systems ,Embedded Systems for Real-Time Multimedia (ESTImedia),no,Other,-0.028169935,36,68,52,0,0,0
+Information Visualization ,International Conference on Information Visualization Theory and Applications,no,Other,-0.056795831,50,100,49,0,0,0
+GeoInformatica ,Informatica,no,Other,-1,85,100,88,1,1,1
+International journal of neural systems ,Applications of Natural Language to Information systems,no,Journal,-0.094200805,53,53,60,0,0,0
+International Journal on Artificial Intelligence Tools ,International Journal on Artificial Intelligence Tools,yes,Journal,0.441903003,99,100,100,1,1,1
+Artificial Intelligence Review SPEC ISS ,Inteligencia Artificial,no,Journal,0.000343332,38,52,71,0,0,0
+Web and Wireless Geographical Information Systems ,Web and Wireless Geographical Information Systems,yes,Other,0.441903003,99,100,100,1,1,1
+Software Practice and Experience ,Concurrency and Computation: Practice & Experience,no,Other,0.073127334,58,73,58,0,0,0
+Proceedings of the  International AAAI Conference on Web and Social Media ICWSM  ,iConference,no,Conference,-1,24,91,25,0,0,0
+Proceedings IEEE  International Conference on Software Testing Verification and Validation Workshops ICSTW  ,International Conference on Testing Software and Systems,no,Conference,0.094033032,55,71,62,0,0,0
+Proceedings IEEE  International Parallel and Distributed Processing Symposium IPDPS  ,International Conference on Parallel Processing,no,Conference,-0.097652501,50,66,60,0,0,0
+Digital Investigation ,"Journal of the Institution of Engineers (India), Part CP: Computer Engineering Division",no,Other,-1,26,59,29,0,0,0
+International Conference on Intelligent User Interfaces Proceedings IUI ,I U I: International Conference on Intelligent User Interfaces. Pr,yes,Conference,0.398364341,84,88,86,0,0,0
+Neural Computing and Applications ,Network Computing and Applications,no,Other,0.080274666,88,88,90,0,0,0
+International Journal of Web Engineering and Technology ,International Journal of Web and Semantic Technology,no,Journal,0.412679739,81,79,80,0,0,0
+ Proceedings of the  Workshop on Algorithm Engineering and Experiments ALENEX  ,Journal of Algorithms,no,Conference,-0.243367667,32,67,33,0,0,0
+ Proceedings of the  Workshop on Algorithm Engineering and Experiments ALENEX  ,Workshops,no,Conference,-1,20,89,19,0,0,0
+Proceedings IEEE  International Conference on Software Testing Verification and Validation Workshops ICSTW  ,Workshops,no,Conference,-0.375631124,15,100,16,1,1,1
+Proceedings of the  Workshop on Algorithm Engineering and Experiments and the  Workshop on Analytic Algorithms and Combinatorics ,Journal of Algorithms,no,Conference,-0.237326593,23,67,24,0,0,0
+IEEE International Workshop on Modeling Analysis and Simulation of Computer and Telecommunication Systems Proceedings ,Modeling,no,Conference,-0.448416881,13,100,13,1,1,1
+Journal on Multimodal User Interfaces ,International Conference on Multimodal Interfaces,no,Journal,0.046598,67,77,67,0,0,0
+International Journal of Computer Games Technology ,Technologies,no,Journal,-1,29,78,29,0,0,0
+ACM Transactions on Design Automation of Electronic Systems ,International Journal of Design,no,Journal,-0.102802872,37,55,40,0,0,0
+International Journal of Human Computer Studies ,International Journal of Technology and Human Interaction,no,Journal,0.163503538,69,65,65,0,0,0
+International Journal of Web Engineering and Technology ,Journal of Web Engineering,no,Journal,0.192954404,63,100,64,1,1,1
+IEEE Intelligent Systems ,IEEE Intelligent Systems,yes,Other,0.127986791,98,100,100,1,1,1
+ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings ,SIGDIAL Conferences,no,Conference,-1,27,58,33,0,0,0
+IEEE Intelligent Systems ,IEEE Symposium on Swarm Intelligence,no,Other,-0.034332107,52,48,67,0,0,0
+Knowledge Engineering Review ,Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery,no,Journal,-0.134610956,33,48,51,0,0,0
+Virtual Reality ,The International Journal of Virtual Reality,no,Other,0.008329249,50,97,51,0,0,0
+COMPUTATIONAL INTELLIGENCE  pages ,International Journal of Computational Intelligence and Applications,no,Other,-0.004989595,18,21,56,0,0,0
+Personal and Ubiquitous Computing ,International Conference on Computers for Handicapped Persons,no,Other,-1,40,50,38,0,0,0
+Multimedia Systems ,Distributed Multimedia Systems,no,Other,0.047712125,73,97,75,0,0,0
+International Journal on Artificial Intelligence Tools ,International Conference on Tools with Artificial Intelligence,no,Journal,0.291904762,75,67,79,0,0,0
+Journal of Parallel and Distributed Computing ,Journal of Computers,no,Journal,-0.027643459,52,60,55,0,0,0
+ACM Transactions on Multimedia Computing Communications and Applications ,Computers and translation,no,Journal,-0.164713956,37,56,45,0,0,0
+ARCS Workshops ARCS  ,EvoWorkshops,no,Workshop,-1,55,75,58,0,0,0
+GeoInformatica ,Informatica,no,Other,-1,85,100,88,1,1,1
+Proceedings IEEE  International Parallel and Distributed Processing Symposium IPDPS  ,International Conference on Parallel and Distributed Systems,no,Conference,-0.018190745,59,72,62,0,0,0
+ACM Transactions on Design Automation of Electronic Systems ,International Journal of Design,no,Journal,-0.102802872,37,55,40,0,0,0
+Expert Systems ,Database and Expert Systems Applications,no,Other,0.023299,55,100,52,0,0,0
+Artificial Intelligence Review ,Artificial Intelligence Review,yes,Journal,0.203342376,98,100,100,1,1,1
+International Journal of Geographical Information Science ,Journal of Computer Science,no,Journal,0.055518208,52,56,60,0,0,0
+International Journal of Data Warehousing and Mining ,Mining,no,Journal,-0.169019608,20,100,21,1,1,1
+Language Resources and Evaluation ,Validation,no,Other,-1,32,70,37,0,0,0
+International Journal of Geographical Information Science ,Informatica,no,Journal,-1,29,82,29,0,0,0
+Neural Computing and Applications ,Applications,no,Other,-0.060205999,52,100,53,1,1,1
+Cooperative Information Agents ,Cooperative Information Agents,yes,Other,0.127986791,98,100,100,1,1,1
+International Conference on Intelligent User Interfaces Proceedings IUI ,iConference,no,Conference,-1,27,91,24,0,0,0
+IEEE Transactions on Services Computing ,IEEE Transactions on Network and Service Management,no,Journal,0.067009999,68,70,67,0,0,0
+International Journal of Data Warehousing and Mining ,International Journal of Data Warehousing and Mining,yes,Journal,0.483462296,99,100,100,1,1,1
+International Journal of Multimedia and Ubiquitous Engineering ,Bioengineering,no,Journal,-1,34,71,29,0,0,0
+Journal of Intelligent Information Systems ,Information Systems Journal,no,Journal,0.081388791,57,85,78,0,0,0
+Artificial Intelligence in Medicine ,Inteligencia Artificial,no,Other,0.030103,51,65,76,0,0,0
+International Journal of Web Engineering and Technology ,Journal of Web Engineering,no,Journal,0.192954404,63,100,64,1,1,1
+Computers in Entertainment ,Advances in Computers,no,Other,0.031808084,38,43,51,0,0,0
+GeoInformatica ,e-Informatica,no,Other,-1,86,92,89,0,0,0
+Proceedings of the  Conference in Games and Virtual Worlds for Serious Applications VSGAMES  ,International Conference on Games and Virtual Worlds for Serious Applications,yes,Conference,0.469069893,78,86,80,0,0,0
+Journal on Multimodal User Interfaces ,Australasian User Interface Conference,no,Journal,-0.066666667,58,58,43,0,0,0
+Computational Intelligence ,Computational Intelligence,yes,Other,0.067780792,98,100,100,1,1,1
+Expert Systems ,Expert Systems,yes,Other,0.040137333,97,100,100,1,1,1
+Proceedings of the VLDB Endowment ,Proceedings of the VLDB Endowment,yes,Conference,0.272125251,99,100,100,1,1,1
+Mathematics of Computation ,Mathematics of Computation,yes,Other,0.127986791,98,100,100,1,1,1
+GeoInformatica ,Informatica,no,Other,-1,85,100,88,1,1,1
+Proceedings of the  Workshop on Algorithm Engineering and Experiments and the  Workshop on Analytic Algorithms and Combinatorics ,Algorithm Engineering and Experimentation,yes,Conference,-0.128187505,48,93,46,0,0,0
+ IEEE International Conference on Mobile Data Management ,International Conference on Mobile Data Management,yes,Conference,0.324649858,93,100,95,1,1,1
+ACM Transactions on Design Automation of Electronic Systems ,ACM Transactions on Design Automation of Electronic Systems,yes,Journal,0.527096749,99,100,100,1,1,1
+Information Fusion ,Informatica,no,Other,-1,60,82,62,0,0,0
+Journal of Intelligent Information Systems ,Australian Journal of Intelligent Information Processing Systems,no,Journal,0.30716639,79,86,79,0,0,0
+Knowledge and Information Systems ,Information Systems,no,Other,0,72,100,73,1,1,1
+Proceedings of the  Conference in Games and Virtual Worlds for Serious Applications VSGAMES  ,Serious Games Development and Applications,no,Conference,-0.13395856,40,48,52,0,0,0
+Algorithm Theory Ã¢â‚¬â€œ SWAT  ,Workshops,no,Other,-1,22,33,33,0,0,0
+Proceedings  IEEE International Parallel and Distributed Processing Symposium IPDPS  ,International Parallel and Distributed Processing Symposium,yes,Conference,0.215836249,82,100,84,1,1,1
+Proceedings of the  International AAAI Conference on Web and Social Media ICWSM  ,International AAAI Conference on Web and Social Media,yes,Conference,0.430266497,79,100,81,1,1,1
+ IEEE International Conference on Mobile Data Management ,iConference,no,Conference,-1,32,91,30,0,0,0
+WWW  Companion Proceedings of the  International Conference on World Wide Web ,Australian World Wide Web Conference,no,Conference,0.037626371,40,56,52,0,0,0
+International Journal of Computer Games Technology ,Journal of Computing and Information Technology,no,Journal,0.072699873,63,74,78,0,0,0
+International Journal of Parallel Emergent and Distributed Systems ,"International Journal of Parallel, Emergent and Distributed Systems",yes,Journal,0.57415733,99,99,100,0,0,0
+International Journal on Artificial Intelligence Tools ,Inteligencia Artificial,no,Journal,-0.033513168,46,61,60,0,0,0
+Artificial Intelligence in Medicine ,European Society for Artificial Intelligence in Medicine,yes,Other,0.228169935,76,99,77,0,0,0
+ACM Transactions on Algorithms ,Algorithmica,no,Journal,-1,42,78,48,0,0,0
+Software Practice and Experience ,Information Security Practice and Experience,no,Other,0.073127334,70,80,68,0,0,0
+International Journal of Human Computer Studies ,Conference of the Australian Computer-Human Interaction,no,Journal,0.038432249,47,50,61,0,0,0
+Journal of Systems Architecture ,Architecture of Computing Systems,no,Journal,0.080274666,40,41,84,0,0,0
+Computational Intelligence ,Computational Intelligence and Security,no,Other,0.069897,82,100,80,0,0,0
+IEEE Intelligent Systems ,IEEE/ASME International Conference on Advanced Intelligent Mechatronics,no,Other,-0.03631604,40,60,44,0,0,0
+Educational Data Mining ,IEEE International Conference on Data Mining,no,Other,-0.015904042,59,64,60,0,0,0
+Expert Systems ,International Workshop on Database and Expert Systems Appli,no,Other,-0.056795831,41,100,38,0,0,0
+Journal of Parallel and Distributed Computing ,International Journal of Parallel and Distributed Systems and Networks,no,Journal,0.217609126,67,83,64,0,0,0
+International Journal of Ambient Computing and Intelligence ,International Journal of Intelligent Systems,no,Journal,0.074767935,69,70,68,0,0,0
+Journal on Multimodal User Interfaces ,Australasian User Interface Conference,no,Journal,-0.066666667,58,58,43,0,0,0
+IEEE Transactions on Services Computing ,Services,no,Journal,-0.093196001,33,100,34,1,1,1
+WWW  Companion Proceedings of the  International Conference on World Wide Web ,International World Wide Web Conference,yes,Conference,0.14904046,50,64,68,0,0,0
+Computer Networks ,Computer Networks,yes,Other,0.040137333,97,100,100,1,1,1
+Information Fusion ,Information Fusion and Geographical Information Systems,no,Other,0.044301957,51,100,49,0,0,0
+IEEE Transactions on Services Computing ,IEEE Transactions on Services Computing,yes,Journal,0.232990001,99,100,100,1,1,1
+Annual ACM Symposium on Parallelism in Algorithms and Architectures ,Architectures,no,Conference,-0.254464669,32,100,32,1,1,1
+ International World Wide Web Conference WWW  ,International World Wide Web Conference,yes,Conference,0.331380622,92,100,95,1,1,1
+Journal of Complex Networks ,International Journal of Network Security,no,Journal,0.057746459,55,68,62,0,0,0
+HT  Proceedings of the  ACM Conference on Hypertext and Social Media ,ACM Conference on Hypertext and Hypermedia,yes,Conference,0.025166838,65,81,65,0,0,0
+Personal and Ubiquitous Computing ,Personal and Ubiquitous Computing,yes,Other,0.160549331,99,100,100,1,1,1
+International journal of neural systems ,Systems,no,Journal,-0.093196001,26,86,30,0,0,0
+Journal on Multimodal User Interfaces ,Journal on Multimodal User Interfaces,yes,Journal,0.272125251,99,100,100,1,1,1
+Natural Language Engineering ,Natural Language Engineering,yes,Other,0.164207126,98,100,100,1,1,1
+International Journal on Artificial Intelligence Tools ,International Journal on Artificial Intelligence Tools,yes,Journal,0.441903003,99,100,100,1,1,1
+Journal of Ambient Intelligence and Smart Environments ,International Journal of Ambient Computing and Intelligence,no,Journal,0.25082652,54,62,69,0,0,0
+Information Visualization ,Information Visualization,yes,Other,0.040137333,98,100,100,1,1,1
+International Journal of Human Computer Studies ,International Journal of Human-Computer Studies,yes,Journal,0.352819793,97,98,100,0,0,0
+Int J Intell Games Simulation ,International Journal of Intelligent Games & Simulation,yes,Other,-0.061567751,68,77,68,0,0,0
+Computational Intelligence ,International Joint Conference on Computational Intelligence,no,Other,0.038432249,60,98,60,0,0,0
+International Journal of Geographical Information Science ,International Journal of Geographical Information Science,yes,Journal,0.396454247,99,100,100,1,1,1
+Proceedings of the  Workshop on Algorithm Engineering and Experiments and the  Workshop on Analytic Algorithms and Combinatorics ,ACM Journal of Experimental Algorithmics,no,Conference,-0.277241736,38,50,39,0,0,0
+International Journal of Web Engineering and Technology ,WEB,no,Journal,-0.148950942,7,33,10,0,0,0
+Journal on Multimodal User Interfaces ,Journal on Multimodal User Interfaces,yes,Journal,0.272125251,99,100,100,1,1,1
+International Journal of Multimedia and Ubiquitous Engineering ,FTRA International Conference on Multimedia and Ubiquitous Engineering,no,Journal,0.194714632,86,87,80,0,0,0
+Concurrency Computation Practice and Experience ,Software: Practice and Experience,no,Other,0.053745332,67,79,58,0,0,0
+ACM Transactions on Multimedia Computing Communications and Applications ,Communication,no,Journal,-1,30,100,31,1,1,1
+Proceedings IEEE  International Parallel and Distributed Processing Symposium IPDPS  ,International Symposium on Parallel and Distributed Processing and Applications,no,Conference,0.202587919,65,67,75,0,0,0
+International Conference on Information and Knowledge Management Proceedings ,Informatica,no,Conference,-1,23,82,23,0,0,0
+Web and Wireless Geographical Information Systems ,Informatica,no,Other,-1,30,82,30,0,0,0
+Information Visualization ,Visualization and Information Security Management,no,Other,0.02857775,43,62,68,0,0,0
+Journal on Multimodal User Interfaces ,Intelligent User Interfaces,no,Journal,-0.013855626,62,67,47,0,0,0
+International Journal of Ambient Computing and Intelligence ,Journal of Ambient Intelligence and Smart Environments,no,Journal,0.261503268,56,64,69,0,0,0
+Computers in Entertainment ,Artificial Intelligence and Interactive Digital Entertainment,no,Other,-0.1037535,43,68,44,0,0,0
+Neural Computing and Applications ,Neural Computing and Applications,yes,Other,0.160549331,99,100,100,1,1,1
+GeoInformatica ,Informatica,no,Other,-1,85,100,88,1,1,1
+International Journal of Communication Networks and Distributed Systems ,Communication,no,Journal,-0.210720997,31,100,31,1,1,1
+GeoInformatica ,Symposium on Bioinformatics,no,Other,-1,48,69,54,0,0,0
+International Journal of Human Computer Studies ,International Journal of Mobile Human Computer Interaction,no,Journal,0.267359361,79,83,76,0,0,0
+WWW  Companion Proceedings of the  International Conference on World Wide Web ,Computation,no,Conference,-1,22,73,23,0,0,0
+Neural Computing and Applications ,Natural Computing,no,Other,-0.050171666,59,88,60,0,0,0
+Journal of Complex Networks ,Simplifying Complex Networks for Practitioners,no,Journal,-0.016838333,54,71,60,0,0,0
+International Journal of Geographical Information Science ,Journal of Computer Science,no,Journal,0.055518208,52,56,60,0,0,0
+Knowledge and Information Systems ,International Conference on Knowledge-Based and Intelligent Information & Engineering Systems,no,Other,0.077224166,52,62,53,0,0,0
+  International Conference on Quality of Multimedia Experience QoMEX  ,iConference,no,Conference,-1,27,91,26,0,0,0
+ACM Transactions on Design Automation of Electronic Systems ,Design Automation Conference,no,Journal,-0.104507956,57,79,48,0,0,0
+Multimedia Tools and Applications ,"Workshop on Language Descriptions, Tools and Applications",no,Other,0.04718565,57,75,58,0,0,0
+  International Conference on Quality of Multimedia Experience QoMEX  ,Quality of Multimedia Experience,yes,Conference,0.040137333,63,100,65,1,1,1
+Journal on Multimodal User Interfaces ,Journal on Multimodal User Interfaces,yes,Journal,0.272125251,99,100,100,1,1,1
+Interacting with Computers ,Conference on Human-Computer Interaction with Mobile Devices and Services,no,Other,-0.130573821,40,70,51,0,0,0
+Mobile Information Systems ,Security and Privacy in Mobile Information and Communication Systems,no,Other,0.041842417,55,74,55,0,0,0
+IEEE International Workshop on Modeling Analysis and Simulation of Computer and Telecommunication Systems Proceedings ,Telecommunication  Systems,no,Conference,-0.37007528,35,96,35,0,0,0
+Proceedings IEEE  International Parallel and Distributed Processing Symposium IPDPS  ,International Parallel and Distributed Processing Symposium,yes,Conference,0.215836249,82,100,84,1,1,1
+Journal of Systems Architecture ,International Journal of High Performance Systems Architecture,no,Journal,0.178684932,66,76,67,0,0,0
+Interacting with Computers ,International Conference on Human Computer Interaction,no,Other,-1,49,56,55,0,0,0
+Personal and Ubiquitous Computing ,International Journal of Ad Hoc and Ubiquitous Computing,no,Other,0.015149585,69,78,70,0,0,0
+IEEE Transactions on Services Computing ,IEEE International Conference on Services Computing,no,Journal,0.13233125,75,68,58,0,0,0
+International Journal of Ambient Computing and Intelligence ,International Journal of Ambient Computing and Intelligence,yes,Journal,0.483462296,99,100,100,1,1,1
+Evolving Systems ,Evolving Systems,yes,Other,0.040137333,97,100,100,1,1,1
+ACM Transactions on Knowledge Discovery from Data ,IEEE Transactions on Knowledge & Data Engineering,no,Journal,0.080046685,67,67,73,0,0,0
+Educational Data Mining ,Data Mining in Bioinformatics,no,Other,0.024233291,45,50,58,0,0,0
+ACM Transactions on Sensor Networks ,ACM Transactions on Algorithms,no,Journal,0.063436333,73,77,71,0,0,0
+International Journal on Artificial Intelligence Tools ,Artificial Intelligence,no,Journal,-0.003410168,59,100,60,1,1,1
+Artificial Intelligence Review ,Revue d'Intelligence Artificielle,no,Journal,0.129691875,50,52,86,0,0,0
+International Conference on Information and Knowledge Management Proceedings ,International Conference on Information and Knowledge Management,yes,Conference,0.40791054,91,100,91,1,1,1
+ARCS Workshops ARCS  ,Workshop On Computer Architecture Education,no,Workshop,-1,38,52,48,0,0,0
+International Journal on Artificial Intelligence Tools ,International Conference on Artificial Intelligence,no,Journal,0.187039858,83,86,76,0,0,0
+Journal of Ambient Intelligence and Smart Environments ,Journal of Ambient Intelligence and Humanized Computing,no,Journal,0.25082652,78,78,73,0,0,0
+Interacting with Computers ,Workshop on Interaction between Compilers and Computer Architectures,no,Other,-1,48,67,47,0,0,0
+Int J Intell Games Simulation ,International Journal of Computer Games Technology,no,Other,-0.166846501,42,44,46,0,0,0
+International journal of neural systems ,International Journal of Neural Systems,yes,Journal,0.272125251,91,92,100,0,0,0
+Computer Networks ,Computer Networks,yes,Other,0.040137333,97,100,100,1,1,1
+International Journal of Communication Networks and Distributed Systems ,International Journal of Communication Systems,no,Journal,0.181816252,78,87,79,0,0,0
+ACM Inroads ,SIGCSE Bulletin Inroads,no,Other,-0.010034333,51,70,47,0,0,0
+International Journal of Ambient Computing and Intelligence ,Journal of Computers,no,Journal,-0.064739632,45,65,48,0,0,0
+GeoInformatica ,Geoinformatica,yes,Other,0.020068666,90,93,100,0,0,0
+International Conference on Information and Knowledge Management Proceedings ,"Management""",no,Conference,-0.190652331,23,91,23,0,0,0
+International Journal of Data Warehousing and Mining ,International Journal of Data Mining and Bioinformatics,no,Journal,0.323400736,76,77,75,0,0,0
+Journal of Intelligent Information Systems ,Australian Journal of Intelligent Information Processing Systems,no,Journal,0.30716639,79,86,79,0,0,0
+Proceedings IEEE International Conference on Data Mining ICDM ,IEEE International Conference on Data Engineering,no,Conference,0.154294175,77,88,71,0,0,0
+The Web Conference  Proceedings of the World Wide Web Conference WWW  ,International World Wide Web Conference,yes,Conference,0.151799973,59,74,60,0,0,0
+Information Switzerland ,Information (Switzerland),yes,Other,0.067780792,94,96,100,0,0,0
+Computers in Entertainment ,Entertainment Computing,no,Other,-0.02177375,56,61,82,0,0,0
+Multimedia Tools and Applications ,Multimedia Tools and Applications,yes,Other,0.160549331,99,100,100,1,1,1
+Journal of Complex Networks ,Journal of Complex Networks,yes,Journal,0.196769666,98,100,100,1,1,1
+International Journal of Geographical Information Science ,International Journal of Geographical Information Science,yes,Journal,0.396454247,99,100,100,1,1,1
+Artificial Intellingence Review ,Inteligencia Artificial,no,Journal,0.008329249,44,55,81,0,0,0
+International Journal on Artificial Intelligence Tools ,International Conference on Tools with Artificial Intelligence,no,Journal,0.291904762,75,67,79,0,0,0
+ACM Transactions on Design Automation of Electronic Systems ,Design,no,Journal,-0.190652331,18,100,18,1,1,1
+Information Fusion ,Informatica,no,Other,-1,60,82,62,0,0,0
+ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings ,iConference,no,Conference,-1,22,91,22,0,0,0
+International Journal of Human Computer Studies ,International Journal of Human-Computer Studies,yes,Journal,0.352819793,97,98,100,0,0,0
+GeoInformatica ,Geoinformatica,yes,Other,0.020068666,90,93,100,0,0,0
+Multimedia Tools and Applications ,Multimedia Systems,no,Other,-0.050171666,54,67,51,0,0,0
+FLAIRS  Proceedings of the Nineteenth International Florida Artificial Intelligence Research Society Conference ,The Journal of Artificial Intelligence Research,no,Conference,0.164362348,53,83,56,0,0,0
+International Journal of Computer Games Technology ,Journal of Computers,no,Journal,0.014198958,56,95,57,0,0,0
+Mathematics of Computation ,Computation,no,Other,-0.031808084,58,100,59,1,1,1
+Proceedings of the  IEEE  International Parallel and Distributed Processing Symposium IPDPS  ,Journal of Parallel and Distributed Computing,no,Conference,-0.078435138,51,76,48,0,0,0
+ACM Transactions on Multimedia Computing Communications and Applications ,Communications and Multimedia Security,no,Journal,-0.050171666,45,63,60,0,0,0
+IEEE Transactions on Parallel and Distributed Systems ,Conference on Distributed and Parallel Embedded Systems,no,Journal,0.169019608,53,54,72,0,0,0
+ACM Transactions on Knowledge Discovery from Data ,Data Mining and Knowledge Discovery,no,Journal,-0.019483738,61,74,71,0,0,0
+IEEE Transactions on Services Computing ,IEEE Transactions on Services Computing,yes,Journal,0.232990001,99,100,100,1,1,1
+ Proceedings of the  Workshop on Algorithm Engineering and Experiments ALENEX  ,Algorithm Engineering and Experimentation,yes,Conference,-0.063504126,60,88,66,0,0,0
+Annual ACM Symposium on Parallelism in Algorithms and Architectures ,International Symposium on Computer Architecture,no,Conference,-0.112442418,57,50,50,0,0,0
+Journal of Location Based Services ,Journal of Location Based Services,yes,Journal,0.272125251,99,100,100,1,1,1
+International Journal of Geographical Information Science ,International Conference on Geographic Information Science,no,Journal,0.058571429,86,86,82,0,0,0
+Personal and Ubiquitous Computing ,Embedded and Ubiquitous Computing,no,Other,0.080274666,78,79,79,0,0,0
+Multimedia Tools and Applications ,ACM Transactions on Multimedia Computing Communications and Applications,no,Other,0.010034333,58,66,59,0,0,0
+Computational Intelligence ,International Journal of Computational Intelligence and Applications,no,Other,0.010914447,57,100,55,0,0,0
+ International World Wide Web Conference WWW  ,Australian World Wide Web Conference,no,Conference,0.228741247,76,83,63,0,0,0
+Proceedings of the  Conference in Games and Virtual Worlds for Serious Applications VSGAMES  ,Computers and Games,no,Conference,-0.323602325,23,53,33,0,0,0
+ACM Transactions on Design Automation of Electronic Systems ,ACM Transactions on Design Automation of Electronic Systems,yes,Journal,0.527096749,99,100,100,1,1,1
+Journal of Intelligent Information Systems ,International Journal of Intelligent Information and Database Systems,no,Journal,0.293539332,75,84,76,0,0,0
+Proceedings of the  Workshop on Algorithm Engineering and Experiments and the  Workshop on Analytic Algorithms and Combinatorics ,International Workshop on Combinatorial Image Analysis,no,Conference,-0.278825678,39,52,46,0,0,0
+GeoInformatica ,Symposium on Bioinformatics,no,Other,-1,48,69,54,0,0,0
+International Journal of Communication Networks and Distributed Systems ,Journal of Networks,no,Journal,-0.022528207,42,68,42,0,0,0
+Journal of Intelligent Information Systems ,Information Systems Journal,no,Journal,0.081388791,57,85,78,0,0,0
+Artificial Intelligence Review ,Artificial Intelligence Review,yes,Journal,0.203342376,98,100,100,1,1,1
+Annual ACM Symposium on Parallelism in Algorithms and Architectures ,Algorithmica,no,Conference,-1,28,83,30,0,0,0
+ACM Transactions on Sensor Networks ,Sensor Networks,no,Journal,-0.029759668,59,100,60,1,1,1
+Multimedia Systems ,Virtual Systems and Multimedia,no,Other,0.040137333,45,58,75,0,0,0
+Journal of Low Power Electronics ,Journal of Low Power Electronics,yes,Journal,0.313684543,98,100,100,1,1,1
+Multimedia Tools and Applications ,Signal Processing and Multimedia Applications,no,Other,0.081045459,58,69,77,0,0,0
+Multimedia Tools and Applications ,ACM Transactions on Multimedia Computing Communications and Applications,no,Other,0.010034333,58,66,59,0,0,0
+Neural Computing and Applications ,Engineering Applications of Neural Network,no,Other,-0.011559583,50,56,61,0,0,0
+International Conference on Information and Knowledge Management Proceedings ,Informatica,no,Conference,-1,23,82,23,0,0,0
+Artificial Intellingence Review ,Artificial Intelligence Review,yes,Journal,0.135561584,97,97,98,0,0,0
+Natural Language Engineering ,International Conference on Natural Language Processing,no,Other,0.016729012,50,75,60,0,0,0
+International Journal of Communication Networks and Distributed Systems ,Journal of Communications and Networks,no,Journal,0.132578877,60,87,70,0,0,0
+Language Resources and Evaluation ,Sources,no,Other,-1,29,86,35,0,0,0
+Expert Systems ,EGOV-CeDEM-ePart,no,Other,-1,26,27,27,0,0,0
+ACM Transactions on Sensor Networks ,ACM Transactions on Graphics,no,Journal,0.053745332,69,75,70,0,0,0
+Algorithm Theory Ã¢â‚¬â€œ SWAT  ,Scandinavian Workshop on Algorithm Theory,yes,Other,0.056975665,47,60,61,0,0,0
+International Journal of Parallel Emergent and Distributed Systems ,International Journal of Parallel and Distributed Systems and Networks,no,Journal,0.407343503,85,87,84,0,0,0
+Computational Intelligence ,Artificial Intelligence and Computational Intelligence,no,Other,0.060205999,64,98,65,0,0,0
+Telecommunication Systems ,"Modeling, Analysis, and Simulation On Computer and Telecommunication Systems",no,Other,-0.053581834,49,98,51,0,0,0
+GeoInformatica ,Symposium on Bioinformatics,no,Other,-1,48,69,54,0,0,0
+Computational Intelligence ,Computational Intelligence and Security,no,Other,0.069897,82,100,80,0,0,0
+Artificial Intelligence in Medicine ,International Conference on Artificial Intelligence,no,Other,0.120781007,53,64,67,0,0,0
+COMPUTATIONAL INTELLIGENCE  pages ,International Joint Conference on Computational Intelligence,no,Other,0.022528207,19,18,61,0,0,0
+ Proceedings of the  Workshop on Algorithm Engineering and Experiments ALENEX  ,ACM Journal of Experimental Algorithmics,no,Conference,-0.228462399,37,48,50,0,0,0
+Information Fusion ,Information Fusion and Geographical Information Systems,no,Other,0.044301957,51,100,49,0,0,0
+Journal of Systems Architecture ,Architectures,no,Journal,-1,53,92,59,0,0,0
+International Journal of Web Engineering and Technology ,International Journal of Web Engineering and Technology,yes,Journal,0.579033527,99,100,100,1,1,1
+Mobile Information Systems ,Informatica,no,Other,-1,47,82,49,0,0,0
+Multimedia Tools and Applications ,"Workshop on Language Descriptions, Tools and Applications",no,Other,0.04718565,57,75,58,0,0,0
+Digital Investigation ,Digital Investigation,yes,Other,0.067780792,98,100,100,1,1,1
+International Journal on Artificial Intelligence Tools ,International Conference on Tools with Artificial Intelligence,no,Journal,0.291904762,75,67,79,0,0,0
+International Symposium on Spatial Data Handling ,International Symposium on Spatial Data Handling,yes,Conference,0.3112605,99,100,100,1,1,1
+HT  Proceedings of the  ACM Conference on Hypertext and Social Media ,iConference,no,Conference,-1,28,91,26,0,0,0
+COSN  Proceedings of the  ACM Conference on Online Social Networks ,Workshop on Online Social Networks,yes,Conference,0.010746674,59,79,55,0,0,0
+International Journal of Human Computer Studies ,Journal of Human-Robot Interaction,no,Journal,0.09847475,54,65,72,0,0,0
+Computers in Entertainment ,Australasian Conference on Interactive Entertainment,no,Other,-0.010625292,51,68,54,0,0,0
+IEEE Transactions on Parallel and Distributed Systems ,Distributed and Parallel Databases,no,Journal,-0.012336407,48,53,55,0,0,0
+COSN  Proceedings of the  ACM Conference on Online Social Networks ,Social Informatics,no,Conference,-0.268191916,26,56,34,0,0,0
+IEEE International Workshop on Modeling Analysis and Simulation of Computer and Telecommunication Systems Proceedings ,"Modeling, Analysis, and Simulation On Computer and Telecommunication Systems",yes,Conference,0.297839333,74,95,77,0,0,0
+GeoInformatica ,e-Informatica,no,Other,-1,86,92,89,0,0,0
+International Journal of Geographical Information Science ,Journal of Computer Science,no,Journal,0.055518208,52,56,60,0,0,0
+Language Resources and Evaluation ,International Conference on Language Resources and Evaluation,yes,Other,0.178684932,69,99,70,0,0,0
+Computational Intelligence ,International Journal of Computational Intelligence and Applications,no,Other,0.010914447,57,100,55,0,0,0
+Concurrency Computation Practice and Experience ,Concurrency and Computation: Practice & Experience,yes,Other,0.232990001,90,88,100,0,0,0
+ACM Transactions on Sensor Networks ,ACM Transactions on Sensor Networks,yes,Journal,0.232990001,99,100,100,1,1,1
+GeoInformatica ,Geoinformatica,yes,Other,0.020068666,90,93,100,0,0,0
+Web and Wireless Geographical Information Systems ,Informatica,no,Other,-1,30,82,30,0,0,0
+International Journal of Human Computer Studies ,International Journal of Technology and Human Interaction,no,Journal,0.163503538,69,65,65,0,0,0
+  International Conference on Quality of Multimedia Experience QoMEX  ,Quality of Information Systems,no,Conference,-0.140480665,32,50,40,0,0,0
+ACM Transactions on Design Automation of Electronic Systems ,Automation,no,Journal,-0.210720997,29,100,29,1,1,1
+ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings ,"International Conference on Acoustics, Speech and Signal Processing",yes,Conference,0.470018061,84,99,85,0,0,0
+International Journal of Geographical Information Science ,International Journal of Geographical Information Science,yes,Journal,0.396454247,99,100,100,1,1,1
+ACM Transactions on Algorithms ,ACM Transactions on Computer Systems,no,Journal,0.073127334,75,74,67,0,0,0
+Journal on Multimodal User Interfaces ,Australasian User Interface Conference,no,Journal,-0.066666667,58,58,43,0,0,0
+Proceedings of the  IEEE  International Parallel and Distributed Processing Symposium IPDPS  ,International Parallel and Distributed Processing Symposium,yes,Conference,0.137695053,78,100,80,1,1,1
+ International Conference on Mobile Data Management ,iConference,no,Conference,-1,35,91,33,0,0,0
+Virtual Reality ,IEEE Virtual Reality Annual International Symposium,no,Other,0,48,100,45,0,0,0
+Interacting with Computers ,Interacting with Computers,yes,Other,0.127986791,98,100,100,1,1,1
+The Web Conference  Proceedings of the World Wide Web Conference WWW  ,Australian World Wide Web Conference,no,Conference,0.151799973,55,78,54,0,0,0
+Knowledge Engineering Review ,Computing Reviews,no,Journal,-1,48,59,44,0,0,0
+International Journal of Computational Intelligence and Applications ,International Journal of Computational Intelligence and Applications,yes,Journal,0.483462296,99,100,100,1,1,1
+ACM Transactions on Sensor Networks ,ACM Transactions on Sensor Networks,yes,Journal,0.232990001,99,100,100,1,1,1
+Journal of Parallel and Distributed Computing ,Journal of Parallel and Distributed Computing,yes,Journal,0.352819793,99,100,100,1,1,1
+Multimedia Tools and Applications ,Multimedia Tools and Applications,yes,Other,0.160549331,99,100,100,1,1,1
+Natural Language Engineering ,Bioengineering,no,Other,-1,51,79,52,0,0,0
+IEEE Intelligent Systems ,The IEEE Intelligent Informatics Bulletin,no,Other,0.045306762,61,72,58,0,0,0
+ IEEE International Symposium on Mixed and Augmented Reality ISMAR  ,International Symposium on Mixed and Augmented Reality,yes,Conference,0.330762918,89,100,91,1,1,1
+The Web Conference  Proceedings of the World Wide Web Conference WWW  ,iConference,no,Conference,-1,27,91,26,0,0,0
+Proceedings  IEEE International Parallel and Distributed Processing Symposium IPDPS  ,International Conference on Parallel and Distributed Systems,no,Conference,-0.018190745,59,72,62,0,0,0
+Proceedings IEEE International Conference on Data Mining ICDM ,IEEE International Conference on Data Mining,yes,Conference,0.251054501,83,100,84,1,1,1
+International Journal of Human Computer Studies ,International Journal of Mobile Human Computer Interaction,no,Journal,0.267359361,79,83,76,0,0,0
+ International Conference on Mobile Data Management ,International Conference on Management of Data,no,Conference,0.246834733,80,76,94,0,0,0
+Artificial Intelligence Review SPEC ISS ,Computing Reviews,no,Journal,-1,39,59,43,0,0,0
+Computational Intelligence ,International Joint Conference on Computational Intelligence,no,Other,0.038432249,60,98,60,0,0,0
+International Journal on Artificial Intelligence Tools ,Inteligencia Artificial,no,Journal,-0.033513168,46,61,60,0,0,0
+ARCS Workshops ARCS  ,Architecture of Computing Systems,yes,Workshop,-1,26,29,35,0,0,0
+Artificial Intelligence Review SPEC ISS ,Artificial Intelligence Review,yes,Journal,0.156744375,86,100,87,1,1,1
+IJCAI International Joint Conference on Artificial Intelligence ,Artificial Intelligence,no,Conference,-0.040506341,53,100,53,1,1,1
+Personal and Ubiquitous Computing ,Ubiquitous Intelligence and Computing,no,Other,0.089965667,56,51,77,0,0,0
+ International Conference on Mobile Data Management ,ICDE Workshop on Secure Data Management on Smartphones and Mobiles,no,Conference,0.009913697,44,50,52,0,0,0
+Artificial Intelligence in Medicine ,Artificial Intelligence in Education,no,Other,0.149760541,86,86,73,0,0,0
+GeoInformatica ,Geoinformatica,yes,Other,0.020068666,90,93,100,0,0,0
+Proceedings of the  Conference in Games and Virtual Worlds for Serious Applications VSGAMES  ,iConference,no,Conference,-1,21,91,22,0,0,0
+International Journal of Geographical Information Science ,Informatica,no,Journal,-1,29,82,29,0,0,0
+ International Conference on Geographic Information Science ,International Conference on Geographic Information Science,yes,Conference,0.352819793,98,100,100,1,1,1
+Cooperative Information Agents ,Agent Systems,no,Other,-1,27,46,42,0,0,0
+Journal on Multimodal User Interfaces ,IEEE Symposium on 3D User Interfaces,no,Journal,0.031217125,59,61,60,0,0,0
+Information Fusion ,Information Fusion,yes,Other,0.067780792,97,100,100,1,1,1
+International Journal of Web Engineering and Technology ,WEB,no,Journal,-0.148950942,7,33,10,0,0,0
+ International Conference on Geographic Information Science ,Informatica,no,Conference,-1,28,82,29,0,0,0
+Mobile Information Systems ,Information Systems,no,Other,0.024233291,83,100,84,1,1,1
+Journal of Low Power Electronics ,International Symposium on Low Power Electronics and Design,no,Journal,0.026529334,63,82,62,0,0,0
+Educational Data Mining ,International Conference on Data Mining,no,Other,0.007394958,60,64,65,0,0,0
+Mobile Information Systems ,Systems,no,Other,-0.031808084,41,100,42,1,1,1
+Journal of Visual Languages and Computing ,Computer Languages,no,Journal,-0.097883791,43,61,58,0,0,0
+Language Resources and Evaluation ,iConference,no,Other,-1,22,36,36,0,0,0
+International Journal of Communication Networks and Distributed Systems ,Communication,no,Journal,-0.210720997,31,100,31,1,1,1
+ACM Transactions on Knowledge Discovery from Data ,ACM Transactions on Knowledge Discovery from Data,yes,Journal,0.394379085,99,100,100,1,1,1
+International Journal of Communication Networks and Distributed Systems ,International Journal of Communication Systems,no,Journal,0.181816252,78,87,79,0,0,0
+International Journal of Ambient Computing and Intelligence ,Journal of Ambient Intelligence and Humanized Computing,no,Journal,0.367144408,56,63,79,0,0,0
+ International Conference on Mobile Data Management ,International Conference on Mobile Data Management,yes,Conference,0.352819793,98,100,100,1,1,1
+Journal of Complex Networks ,Journal of Networks,no,Journal,0.107918125,81,63,83,0,0,0
+Interacting with Computers ,Engineering with Computers,no,Other,0.069897,79,81,85,0,0,0
+ACM Transactions on Algorithms ,ACM Transactions on Algorithms,yes,Journal,0.196769666,98,100,100,1,1,1
+Mobile Information Systems ,Mobile Information Systems,yes,Other,0.095424251,98,100,100,1,1,1
+International Journal on Artificial Intelligence Tools ,International Journal on Artificial Intelligence Tools,yes,Journal,0.441903003,99,100,100,1,1,1
+Knowledge and Information Systems ,Systems,no,Other,-0.060205999,34,100,35,1,1,1
+Journal of Intelligent Information Systems ,Journal of Intelligent Information Systems,yes,Journal,0.313684543,99,100,100,1,1,1
+International Journal of Computational Intelligence and Applications ,Applications,no,Journal,-0.169019608,30,100,30,1,1,1
+Proceedings of the Workshop on Algorithm Engineering and ExperimentsJanuaryJanuary ,Algorithm Engineering and Experimentation,yes,Conference,-0.021019294,61,93,63,0,0,0
+Software Practice and Experience ,Software Process Improvement and Practice,no,Other,0.073127334,59,58,71,0,0,0
+Knowledge and Information Systems ,Information Systems,no,Other,0,72,100,73,1,1,1
+Virtual Reality ,Virtual Reality,yes,Other,0.040137333,97,100,100,1,1,1
+International Journal of Communication Networks and Distributed Systems ,Journal of Networks,no,Journal,-0.022528207,42,68,42,0,0,0
+Proceedings IEEE International Conference on Data Mining ICDM ,iConference,no,Conference,-1,30,91,28,0,0,0
+ACM Transactions on Design Automation of Electronic Systems ,Design Automation Conference,no,Journal,-0.104507956,57,79,48,0,0,0
+ARCS Workshops ARCS  ,Journal of Systems Architecture,no,Workshop,-1,23,29,36,0,0,0
+Telecommunication Systems ,"Modeling, Analysis, and Simulation On Computer and Telecommunication  Systems",no,Other,-0.053581834,49,96,51,0,0,0
